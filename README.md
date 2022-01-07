@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my portfolio projects.
 - 🌱 I’m currently learning javascript and react.
-- 👯 I’m looking to collaborate in group projects.
+- 🤔 I’m looking to collaborate in open source projects.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats:&theme=dark)](https://github.com/fernandobouchet)
 
