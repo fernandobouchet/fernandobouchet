@@ -5,9 +5,11 @@
 - 📫 How to reach me: fernandobouchet@gmail.com
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats:&theme=dark)](https://github.com/fernandobouchet)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats:&theme=dark&icon_color=ffffff)](https://github.com/fernandobouchet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&theme=dark)](https://github.com/fernandobouchet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&theme=dark)](https://github.com/fernandobouchet/github-readme-stats)
+
+
 
 <!--
 **fernandobouchet/fernandobouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
