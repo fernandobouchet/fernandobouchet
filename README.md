@@ -1,13 +1,16 @@
 ## Hi there, I'm Fernando  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ferbouchet)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/fernandobouchet)
+[<img align="left" alt="LinkedIn" width="26px" src="./linkedin.svg" />](https://www.linkedin.com/in/fernandobouchet)
+[<img align="left" alt="Twitter" width="26px" src="./twitter.svg" />](https://twitter.com/ferbouchet)
+[<img align="left" alt="Gmail" width="26px" src="./mail.svg" />](mailto:fernandobouchet@gmail.com)
+[<img alt="Telegram" width="26px" src="./telegram.svg" />](https://t.me/fernandobouchet)
 
-- :computer: I'm programming technical student.
-- 🔭 I’m currently working on my portfolio projects.
+
+- 💻 I´m a self-taught Frontend developer.
+- 🎓 I´m a technical student in programming.
+- 🔭 I’m currently working on my porfolio projects.
 - 🌱 I’m currently learning Typescript.
-- 🤔 I’m looking to collaborate in open source projects.
-- 📫 How to reach me: fernandobouchet@gmail.com
+- 🤔 I’m looking for a new job opportunity.
 
 ## Languages and Tools:
 
