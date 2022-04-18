@@ -1,9 +1,12 @@
-## Hi there, I'm Fernando  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br/>
 
 [<img align="left" alt="LinkedIn" width="26px" src="./linkedin.svg" />](https://www.linkedin.com/in/fernandobouchet)
 [<img align="left" alt="Twitter" width="26px" src="./twitter.svg" />](https://twitter.com/ferbouchet)
 [<img align="left" alt="Gmail" width="26px" src="./mail.svg" />](mailto:fernandobouchet@gmail.com)
 [<img alt="Telegram" width="26px" src="./telegram.svg" />](https://t.me/fernandobouchet)
+
+<br/>
 
 
 - 💻 I´m a self-taught Frontend developer.
@@ -11,6 +14,13 @@
 - 🔭 I’m currently working on my porfolio projects.
 - 🌱 I’m currently learning Typescript.
 - 🤔 I’m looking for a new job opportunity.
+<br/>
+
+## Github stats:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet)
+
+## Most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
 
 ## Languages and Tools:
 
@@ -25,7 +35,8 @@
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
+
+
 
 
 
