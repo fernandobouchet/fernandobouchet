@@ -17,7 +17,7 @@
 <br/>
 
 ## Github stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet)
+[![GitHub stats](https://github-readme-stats-fernandobouchet.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet)
 
 ## Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
