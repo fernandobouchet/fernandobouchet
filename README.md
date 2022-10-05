@@ -1,4 +1,4 @@
-## Hi there, I'm Fernando 👋
+## Hi there, I'm Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
 [<img align="left" alt="LinkedIn" width="26px" src="./linkedin.svg" />](https://www.linkedin.com/in/fernandobouchet)
@@ -12,15 +12,15 @@
 - 💻 I´m a self-taught Frontend developer.
 - 🎓 I´m a technical student in programming.
 - 🔭 I’m currently working on my porfolio projects.
-- 🌱 I’m currently improving my React skills.
-- 🤔 I’m looking for a new job opportunity.
+- 🌱 I’m currently learning backend with NodeJS, Express and MongoDB.
+- 🤔 I’m looking for my first professional experience in IT.
 <br/>
 
 ## Github stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet)
+[![GitHub stats](https://github-readme-stats-ferbouchet.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet)
 
 ## Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ferbouchet.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&hide_title=true&theme=dark&icon_color=ffffff&bg_color=0d1118&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
 
 ## Languages and Tools:
 
