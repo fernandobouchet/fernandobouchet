@@ -9,10 +9,10 @@
 <br/>
 
 
-- 💻 I´m a self-taught Frontend developer.
+- 💻 I´m a self-taught Full-stack developer.
 - 🎓 I´m a technical student in programming.
 - 🔭 I’m currently working on my porfolio projects.
-- 🌱 I’m currently learning backend with NodeJS, Express and MongoDB.
+- 🌱 I’m improving my developer skills.
 - 🤔 I’m looking for my first professional experience in IT.
 <br/>
 
