@@ -9,8 +9,8 @@
 <br/>
 
 
-- 💻 I´m a self-taught Full-stack developer.
-- 🎓 I´m a technical student in programming.
+- 💻 I´m a self-taught Full Stack developer.
+- 🎓 I´m studyng a technical degree in programming.
 - 🔭 I’m currently working on my porfolio projects.
 - 🌱 I’m improving my developer skills.
 - 🤔 I’m looking for my first professional experience in IT.
