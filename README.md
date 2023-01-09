@@ -24,7 +24,7 @@
 
 ## Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js,react,nodejs,express,mongo,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,html,css,js,ts,react,nodejs,express,mongo,mysql)](https://skills.thijs.gg)
 
 
 
