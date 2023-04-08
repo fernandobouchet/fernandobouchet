@@ -9,7 +9,7 @@
 - 💯 I’m improving my developer skills.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for my first professional experience in IT.
-- 📫 How to reach me: email me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
+- 📫 How to reach me: [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
 
 <br/>
 
