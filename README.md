@@ -1,19 +1,16 @@
 ## Hi there, I'm Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
-
-[<img align="left" alt="LinkedIn" width="26px" src="./linkedin.svg" />](https://www.linkedin.com/in/fernandobouchet)
-[<img align="left" alt="Twitter" width="26px" src="./twitter.svg" />](https://twitter.com/ferbouchet)
-[<img align="left" alt="Gmail" width="26px" src="./mail.svg" />](mailto:fernandobouchet@gmail.com)
-[<img alt="Telegram" width="26px" src="./telegram.svg" />](https://t.me/fernandobouchet)
 
 <br/>
 
 
 - 💻 I´m a self-taught Full Stack developer.
 - 🎓 I´m studyng a technical degree in programming.
-- 🔭 I’m currently working on my porfolio projects.
-- 🌱 I’m improving my developer skills.
+- 🔭 I’m currently working on personal and collaborative projects.
+- 💯 I’m improving my developer skills.
+- 🌱 I’m currently learning Java.
 - 🤔 I’m looking for my first professional experience in IT.
+- 📫 How to reach me: email me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
+
 <br/>
 
 ## Github stats:
@@ -24,7 +21,7 @@
 
 ## Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,html,css,js,ts,react,nodejs,express,mongo,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,html,css,js,ts,react,nodejs,express,mongo,mysql,java)](https://skills.thijs.gg)
 
 
 
