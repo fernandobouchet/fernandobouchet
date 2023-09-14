@@ -17,7 +17,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet)
 
 ## Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&hide=wollok&langs_count=10&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&langs_count=12&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
 
 ## Skills:
 
