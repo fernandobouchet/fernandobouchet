@@ -7,7 +7,7 @@
 - 💻 I´m a self-taught Full Stack developer.
 - 🔭 I’m currently working on personal and collaborative projects.
 - 💯 I'm constantly enhancing my soft and technical skills.
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning C# and .NET.
 - 🤔 I'm seeking my first professional experience in IT.
 - 📫 You can reach me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
 <br/>
@@ -16,11 +16,11 @@
 [![GitHub stats](https://github-readme-stats-fernandobouchet.vercel.app/api?username=fernandobouchet&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet)
 
 ## Most used languages:
-[![Top Langs](https://github-readme-stats-fernandobouchet.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&exclude_repo=whyred-priv,Whyred-4.19&langs_count=12&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fernandobouchet.vercel.app/api/top-langs/?username=fernandobouchet&layout=compact&exclude_repo=whyred-priv,Whyred-4.19&langs_count=14&hide_title=true&theme=transparent&hide_border=true)](https://github.com/fernandobouchet/github-readme-stats)
 
 ## Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,html,css,js,ts,react,nextjs,nodejs,express,mongo,mysql,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,windows,git,github,html,css,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres)](https://skills.thijs.gg)
 
 
 
