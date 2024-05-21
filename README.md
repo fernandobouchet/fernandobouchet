@@ -20,7 +20,7 @@
 
 ## Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=linux,windows,git,github,html,css,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres)](https://skillicons.dev)
 
 
 
