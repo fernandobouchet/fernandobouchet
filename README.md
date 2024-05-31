@@ -9,6 +9,7 @@
 - 💯 I'm constantly enhancing my soft and technical skills.
 - 🌱 I’m currently learning C# and .NET.
 - 🤔 I'm seeking my first professional experience in IT.
+- 🔗 You can check my porfolio [here](https://fernandobouchet.github.io/).
 - 📫 You can reach me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
 <br/>
 
@@ -20,7 +21,7 @@
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres,cs)](https://skillicons.dev)
 
 
 
