@@ -2,14 +2,13 @@
 
 <br/>
 
-- 🎓 I´m pursuing a Bachelor's degree in computer science.
-- 🎓 I´m finishing my studies as a university-level programming technician.
-- 💻 I´m a self-taught Full Stack developer.
+- 🎓 I´m pursuing a Bachelor's degree in computer science while finishing my studies as a university technician in programming.
+- 💻 I´m also a self-taught Full Stack developer.
 - 🔭 I’m currently working on personal and collaborative projects.
 - 💯 I'm constantly enhancing my soft and technical skills.
 - 🌱 I’m currently learning C# and .NET.
 - 🤔 I'm seeking my first professional experience in IT.
-- 🔗 You can check my porfolio [here](https://fernandobouchet.github.io/).
+- 👨‍💻 You can check my porfolio at [fernandobouchet.github.io](https://fernandobouchet.github.io).
 - 📫 You can reach me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
 <br/>
 
