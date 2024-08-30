@@ -2,10 +2,11 @@
 
 <br/>
 
-- 🎓 I´m pursuing a Bachelor's degree in computer science while finishing my studies as a university technician in programming.
+- 🏅 I recently graduated as a University Technician in Programming.
+- 🎓 I´m pursuing a Bachelor's degree in computer science.
 - 💻 I´m also a self-taught Full Stack developer.
-- 🔭 I’m currently working on personal and collaborative projects.
-- 💯 I'm constantly enhancing my soft and technical skills.
+- 🔭 I’m currently working on both personal and collaborative projects.
+- 💯 I'm constantly enhancing my technical and soft skills.
 - 🌱 I’m currently learning C# and .NET.
 - 🤔 I'm seeking my first professional experience in IT.
 - 👨‍💻 You can check my porfolio at [fernandobouchet.github.io](https://fernandobouchet.github.io).
