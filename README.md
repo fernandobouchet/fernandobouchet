@@ -7,7 +7,7 @@
 - 💻 I´m also a self-taught Full Stack developer.
 - 🔭 I’m currently working on both personal and collaborative projects.
 - 💯 I'm constantly enhancing my technical and soft skills.
-- 🌱 I’m currently learning C# and .NET.
+- 🌱 I’m currently learning JAVA and SPRINGBOOT.
 - 🤔 I'm seeking my first professional experience in IT.
 - 👨‍💻 You can check my porfolio at [fernandobouchet.github.io](https://fernandobouchet.github.io).
 - 📫 You can reach me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
@@ -21,7 +21,7 @@
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres,java,spring)](https://skillicons.dev)
 
 
 
