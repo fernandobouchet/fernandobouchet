@@ -2,15 +2,15 @@
 
 <br/>
 
-- 🏅 I recently graduated as a University Technician in Programming.
-- 🎓 I´m pursuing a Bachelor's degree in computer science.
-- 💻 I´m also a self-taught Full Stack developer.
-- 🔭 I’m currently working on both personal and collaborative projects.
-- 💯 I'm constantly enhancing my technical and soft skills.
-- 🌱 I’m currently learning JAVA and SPRINGBOOT.
-- 🤔 I'm seeking my first professional experience in IT.
-- 👨‍💻 You can check my porfolio at [fernandobouchet.github.io](https://fernandobouchet.github.io).
-- 📫 You can reach me at [fernandobouchet@gmail.com](mailto:fernandobouchet@gmail.com)
+- 🏅 Recently graduated as a University Technician in Programming.
+- 🎓 Currently pursuing a Bachelor's degree in Computer Science.
+- 💻 A self-taught Full Stack developer passionate about building efficient and maintainable applications.
+- 🔭 Working on personal projects with a growing focus on cybersecurity fundamentals, Python scripting, and Linux systems.
+- 💯 Continuously improving both technical and soft skills.
+- 🌱 Currently expanding my knowledge in cybersecurity and Python automation.
+- 🤔 Seeking my first professional opportunity in IT, ideally in cybersecurity or software development.
+- 👨‍💻 Check out my portfolio at [fernandobouchet.github.io](https://fernandobouchet.github.io).
+- 📫 Feel free to contact me at fernandobouchet@gmail.com.
 <br/>
 
 ## Github stats:
@@ -21,7 +21,7 @@
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongo,mysql,postgres,python)](https://skillicons.dev)
 
 
 
